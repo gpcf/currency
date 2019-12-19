@@ -11,7 +11,7 @@ minetest.register_craftitem("currency:minegeld", {
 
 minetest.register_craftitem("currency:minegeld_5", {
     description = S("5 MineGeld Note"),
-    inventory_image = "minegeld_5_pen.png",
+    inventory_image = "minegeld_5.png",
         stack_max = 30000,
 		groups = {minegeld = 1}
 })
