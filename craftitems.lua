@@ -42,6 +42,10 @@ register_comm_currency("minegeld_1000_e231", "1000 MineGeld Note, Featuring E231
 register_comm_currency("minegeld_1000_origin", "1000 MineGeld Note, Featuring Origin")
 register_comm_currency("minegeld_1000_raja", "1000 MineGeld Note, Featuring Raja")
 register_comm_currency("minegeld_1000_lazamonument", "1000 MineGeld Note, Featuring Laza's monument")
+register_comm_currency("minegeld_1000_nadinetopia", "1000 MineGeld Note, Featuring Nadinetopia")
+register_comm_currency("minegeld_1000_trisiston", "1000 MineGeld Note, Featuring Trisiston Town Hall")
+register_comm_currency("minegeld_1000_BambooBayVillage", "1000 MineGeld Note, Featuring Bamboo Bay village")
+register_comm_currency("minegeld_1000_patatas_importancia", "1000 MineGeld Note, Featuring Patatas a la Importancia")
 
 minetest.register_craftitem("currency:minegeld_bundle", {
     description = S("Bundle of random Minegeld notes"),
