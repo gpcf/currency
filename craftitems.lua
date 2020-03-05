@@ -35,6 +35,7 @@ end
 
 register_comm_currency("minegeld_1000_gabriel", "1000 MineGeld Note, Featuring Gabriel")
 register_comm_currency("minegeld_1000_nadine", "1000 MineGeld Note, Featuring Nadine")
+register_comm_currency("minegeld_1000_smacker", "1000 MineGeld Note, Featuring Smacker")
 register_comm_currency("minegeld_1000_och_noe", "1000 MineGeld Note, Featuring Och Nö")
 register_comm_currency("minegeld_1000_melinka", "1000 MineGeld Note, Featuring Melinka Town")
 register_comm_currency("minegeld_1000_mese_miracle", "1000 MineGeld Note, Featuring Mese Fairy Miracle")
