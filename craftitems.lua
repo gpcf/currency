@@ -38,6 +38,7 @@ register_comm_currency("minegeld_1000_nadine", "1000 MineGeld Note, Featuring Na
 register_comm_currency("minegeld_1000_smacker", "1000 MineGeld Note, Featuring Smacker")
 register_comm_currency("minegeld_1000_och_noe", "1000 MineGeld Note, Featuring Och Nö")
 register_comm_currency("minegeld_1000_melinka", "1000 MineGeld Note, Featuring Melinka Town")
+register_comm_currency("minegeld_1000_corona", "1000 MineGeld Note, Featuring Coronavirus")
 register_comm_currency("minegeld_1000_mese_miracle", "1000 MineGeld Note, Featuring Mese Fairy Miracle")
 register_comm_currency("minegeld_1000_e231", "1000 MineGeld Note, Featuring E231 train")
 register_comm_currency("minegeld_1000_origin", "1000 MineGeld Note, Featuring Origin")
