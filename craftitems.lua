@@ -47,6 +47,7 @@ register_comm_currency("minegeld_1000_lazamonument", "1000 MineGeld Note, Featur
 register_comm_currency("minegeld_1000_nadinetopia", "1000 MineGeld Note, Featuring Nadinetopia")
 register_comm_currency("minegeld_1000_trisiston", "1000 MineGeld Note, Featuring Trisiston Town Hall")
 register_comm_currency("minegeld_1000_bamboobayvillage", "1000 MineGeld Note, Featuring Bamboo Bay village")
+minetest.register_alias("currency:minegeld_1000_BambooBayVillage", "currency:minegeld_1000_bamboobayvillage")
 register_comm_currency("minegeld_1000_patatas_importancia", "1000 MineGeld Note, Featuring Patatas a la Importancia")
 register_comm_currency("minegeld_1000_10_4", "1000 MineGeld Note, Featuring 10-4 bugs")
 register_comm_currency("minegeld_1000_animal_extinction", "1000 MineGeld Note, Commemorating animal extinction")
