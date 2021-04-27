@@ -69,6 +69,7 @@ register_comm_currency("minegeld_1000_unknown_item", "1000 Minegeld Note, Featur
 register_comm_currency("minegeld_1000_wiki", "1000 Minegeld note, Commemorating the wiki")
 register_comm_currency("minegeld_1000_wirecard", "1000 Minegeld note, Commemorating the Wirecard Scandal")
 register_comm_currency("minegeld_1000_xnihilo", "1000 Minegeld note, Commemorating X Nihilo")
+register_comm_currency("minegeld_1000_4yearslf", "1000 Minegeld note, Commemorating 4 Years of LinuxForks")
 
 minetest.register_craftitem("currency:minegeld_bundle", {
     description = S("Bundle of random Minegeld notes"),
